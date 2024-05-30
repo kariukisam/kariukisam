@@ -4,10 +4,10 @@ I am currently learning and working on some interesting robotics projects.
 By integrating robotics and AI then we can potentially realize a high level of automation.
 Will share progress as soon as its publicly available!
 
-Because education is lifelong, I am to be able to collaborate in the development of projects aimed at solving some of the local and gloabl challenges.
-Also aim to develop some informational courses in the future... 
+Education and growth being a lifelong journey, I am motivated and gearing towards problem solving through design thinking and collaboration in the development of projects to tackle some of the local and global challenges.
+Also aiming to develop some educational courses related to my research in the future... 
 
-#Python #C++ #MATLAB #Simulink
+#Python #C++ #MATLAB #Simulink #Consistency
 
 Stay tuned for more:-)
 
