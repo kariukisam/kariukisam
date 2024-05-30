@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+I am currently learning and working on some interesting robotics projects.
+By integrating robotics and AI then we can potentially realize a high level of automation.
+Will share progress as soon as its publicly available!
+
+Because education is lifelong, I am to be able to collaborate in the development of projects aimed at solving some of the local and gloabl challenges.
+Also aim to develop some informational courses in the future... 
+
+#Python #C++ #MATLAB #Simulink
+
+Stay tuned for more:-)
+
 <!--
 **kariukisam/kariukisam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
